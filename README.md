@@ -13,7 +13,7 @@ need for detecting and erasing methods as ABL is applied in the training phase. 
 * The folder `input-aware-backdoor-attack-release` consists all the files required to simulate the `Input Aware Dynamic Backdoor Attack`.
 
 ## Jupyter notebooks
-* The file `AntiBackDoorLearning.ipunb` contains code related to applying ABL on various attack experimented such as `CleanLabel Attack`, `SIG Attack`, `BadNet Attack`.
+* The file `AntiBackDoorLearning.ipynb` contains code related to applying ABL on various attack experimented such as `CleanLabel Attack`, `SIG Attack`, `BadNet Attack`.
 * The file `CleanLabelAttack.ipynb` contains the required code to poison the dataset with `CleanLabel Attack` and how to train the model on the poisoned dataset.
 * The file `Input_Aware_Dynamic_attack_iynb.ipynb` contains the execution of code under the folder `input-aware-backdoor-attack-release` in order compromise the model with `Input Aware Dynamic Backdoor Attack`.
 
